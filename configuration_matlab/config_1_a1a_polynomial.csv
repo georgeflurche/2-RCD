@@ -1,0 +1,11 @@
+key,value
+maxIter,10000
+train_data,data/a1a.train
+test_data,data/a1a.t
+epsilon,1e-05
+kernel_type,polynomial
+cost,1
+degree,3
+coef0,1
+gamma,0.008130081300813
+sparse_matrix,False

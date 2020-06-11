@@ -1,0 +1,8 @@
+key,value
+maxIter,10000
+train_data,data\a1a.train
+test_data,data\a1a.t
+epsilon,0.00001
+kernel_type,linear
+cost,1
+sparse_matrix,FALSE

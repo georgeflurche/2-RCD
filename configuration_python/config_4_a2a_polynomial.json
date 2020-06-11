@@ -1,0 +1,11 @@
+{
+    "maxIter": 10000,
+    "train_data": "data/a2a.train",
+    "test_data": "data/a2a.t",
+    "epsilon": 0.00001,
+    "kernel_type": "polynomial",
+    "cost": 1,
+    "degree": 3,
+    "coef0": 1,
+    "gamma": 0.008130081300813
+}

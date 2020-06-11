@@ -1,0 +1,8 @@
+key,value
+maxIter,10000
+train_data,data/a9a.train
+test_data,data/a9a.t
+epsilon,1e-05
+kernel_type,radial_basis
+cost,1
+gamma,0.008130081300813

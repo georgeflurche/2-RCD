@@ -1,0 +1,11 @@
+{
+    "maxIter": 10000,
+    "train_data": "data/breast_cancer.train",
+    "test_data": "data/breast_cancer.t",
+    "epsilon": 0.00001,
+    "kernel_type": "polynomial",
+    "cost": 1,
+    "degree": 3,
+    "coef0": 1,
+    "gamma": 0.1
+}
